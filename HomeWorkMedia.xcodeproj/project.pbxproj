@@ -13,6 +13,8 @@
 		399D3BF52C78D6B20018B935 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 399D3BF32C78D6B20018B935 /* Main.storyboard */; };
 		399D3BF72C78D6B30018B935 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 399D3BF62C78D6B30018B935 /* Assets.xcassets */; };
 		399D3BFA2C78D6B30018B935 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 399D3BF82C78D6B30018B935 /* LaunchScreen.storyboard */; };
+		399D3C022C78D7AF0018B935 /* Аили - Сильная Девочка.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 399D3C012C78D7AE0018B935 /* Аили - Сильная Девочка.mp3 */; };
+		399D3C042C79DAEC0018B935 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 399D3C032C79DAEC0018B935 /* CameraViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		399D3BF62C78D6B30018B935 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		399D3BF92C78D6B30018B935 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		399D3BFB2C78D6B30018B935 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		399D3C012C78D7AE0018B935 /* Аили - Сильная Девочка.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Аили - Сильная Девочка.mp3"; sourceTree = "<group>"; };
+		399D3C032C79DAEC0018B935 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				399D3BF62C78D6B30018B935 /* Assets.xcassets */,
 				399D3BF82C78D6B30018B935 /* LaunchScreen.storyboard */,
 				399D3BFB2C78D6B30018B935 /* Info.plist */,
+				399D3C012C78D7AE0018B935 /* Аили - Сильная Девочка.mp3 */,
+				399D3C032C79DAEC0018B935 /* CameraViewController.swift */,
 			);
 			path = HomeWorkMedia;
 			sourceTree = "<group>";
@@ -127,6 +133,7 @@
 			files = (
 				399D3BFA2C78D6B30018B935 /* LaunchScreen.storyboard in Resources */,
 				399D3BF72C78D6B30018B935 /* Assets.xcassets in Resources */,
+				399D3C022C78D7AF0018B935 /* Аили - Сильная Девочка.mp3 in Resources */,
 				399D3BF52C78D6B20018B935 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				399D3BF22C78D6B20018B935 /* ViewController.swift in Sources */,
+				399D3C042C79DAEC0018B935 /* CameraViewController.swift in Sources */,
 				399D3BEE2C78D6B20018B935 /* AppDelegate.swift in Sources */,
 				399D3BF02C78D6B20018B935 /* SceneDelegate.swift in Sources */,
 			);
